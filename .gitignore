@@ -186,4 +186,6 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# direnv
+.envrc
 
